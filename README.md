@@ -1,2 +1,2 @@
 # FenrirCrypt
-Прога для шифрования файлов, читайте readme
+FenrirCrypt — шифрование файлов через Drag & Drop. AES-256, один .exe.
